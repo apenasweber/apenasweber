@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @apenasweber
-- 👀 I’m interested in CODING dã
-- 🌱 I’m currently learning MICROSSERVICES
-- 💞️ I’m looking to collaborate on PYTHON PROJECTS
-- 📫 How to reach me?! https://www.linkedin.com/in/andersonweber/
+# Hello World, I´m Weber! Software Engineer at AVENUE CODE 🌍👋
 
-<!---
-apenasweber/apenasweber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---- 
+
+
+![Qoda GitHub Stats](https://github-readme-stats.vercel.app/api?username=apenasweber&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apenasweber&show_icons=true)
+
+## Wanna Meet me? 💬 
+[Linkedin](https://www.linkedin.com/in/andersonweber/)<br>
+[Blog](https://blog.qoda.com.br)<br>
