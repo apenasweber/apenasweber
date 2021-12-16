@@ -1,5 +1,5 @@
 # Hello World, I´m Weber! Software Engineer at AVENUE CODE 🌍👋
-[previously administered profile:](https://github.com/qodatecnologia)
+previously administered profile: @qodatecnologia
 ---- 
 
 ![Qoda GitHub Stats](https://github-readme-stats.vercel.app/api?username=apenasweber&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apenasweber&show_icons=true)
