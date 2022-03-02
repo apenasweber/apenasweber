@@ -1,4 +1,4 @@
-# Hello World, I´m Weber! Software Engineer at AVENUE CODE 🌍👋
+# Hello World, I´m Weber! Software Engineer 🌍👋
 previously administered profile: @qodatecnologia
 ---- 
 
@@ -6,4 +6,3 @@ previously administered profile: @qodatecnologia
 
 ## Wanna Meet me? 💬 
 [Linkedin](https://www.linkedin.com/in/andersonweber/)<br>
-[Blog](https://blog.qoda.com.br)<br>
